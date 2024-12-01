@@ -11,7 +11,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class WeatherApp {
     public static void main(String[] args) {
-        String apiKey = "4429618b-46fe-4286-bc5b-07e373775f74";
+        String apiKey = "b46b19f1-2875-4d0e-900f-bcba153123a9";
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите долготу в градусах в формате XX.XX: ");
